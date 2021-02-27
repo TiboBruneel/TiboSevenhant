@@ -8,6 +8,6 @@
 - 🙌 My goals for this year are to learn as much as possible, become a great software engineer and graduate in my bachelor.
 
 ## Connect with me
-[Portfolio](https://tibosevenhant.be/)
-[LinkedIn](https://www.linkedin.com/in/tibo-sevenhant/)
-[Twitter](https://twitter.com/TiboSevenhant/)
+- [Portfolio](https://tibosevenhant.be/)
+- [LinkedIn](https://www.linkedin.com/in/tibo-sevenhant/)
+- [Twitter](https://twitter.com/TiboSevenhant/)
